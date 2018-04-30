@@ -8,7 +8,7 @@
 **Links to work**:N/A
 
 
-## Day 1: April 29, Sunday
+## Day 2: April 29, Sunday
 
 **Today's Progress**: Sharped some skills on using GIT. Started day2 of Learn Java in 21
 
