@@ -18,9 +18,9 @@
 
 ## Day 3: April 30, Monday
 
-**Today's Progress**:Continued working on day2 java code
+**Today's Progress**:Continued working on day2 and day4 java code
 
-**Thoughts**: 
+**Thoughts**: Decided to skip over learning the material covered in day3 since I felt comfortable enough.
 
 **Links to work**:https://github.com/dgallis/learnJavaIn21
 
