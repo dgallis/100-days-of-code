@@ -15,3 +15,14 @@
 **Thoughts**: Learning out of a book at my own pace is refreshing compared to university lectures.
 
 **Links to work**:N/A
+
+## Day 3: April 30, Monday
+
+**Today's Progress**:Continued working on day2 java code
+
+**Thoughts**: 
+
+**Links to work**:https://github.com/dgallis/learnJavaIn21
+
+
+
